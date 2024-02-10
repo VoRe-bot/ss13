@@ -93,3 +93,6 @@
   - rscdel: Removed Internet Explorer 8 support
   - qol: tgui 5.0 update
   - qol: Updated prettier version
+2024-02-10:
+  VoRe-bot:
+  - bugfix: fixed horrible awful code for mob spawners
